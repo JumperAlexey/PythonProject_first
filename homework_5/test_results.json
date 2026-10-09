@@ -1,0 +1,9 @@
+{
+    "tests": [
+        {"name": "test_login", "status": "PASS", "duration": 2.5},
+        {"name": "test_checkout", "status": "FAIL", "duration": 5.1},
+        {"name": "test_profile", "status": "PASS", "duration": 1.8},
+        {"name": "test_payment", "status": "FAIL", "duration": 4.2},
+        {"name": "test_search", "status": "SKIP", "duration": 0.0}
+    ]
+}

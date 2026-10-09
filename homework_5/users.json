@@ -1,0 +1,8 @@
+{
+    "users": [
+        {"login": "admin", "password": "admin123", "expected": "success"},
+        {"login": "user", "password": "wrong", "expected": "fail"},
+        {"login": "guest", "password": "guest123", "expected": "success"},
+        {"login": "guest55", "password": "guest55"}
+    ]
+}
